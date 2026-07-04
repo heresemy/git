@@ -1,0 +1,14 @@
+{
+  "name": "num-info-api",
+  "version": "1.0.0",
+  "description": "NUM TO INFO API - Single File",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
